@@ -2,11 +2,11 @@ import Container from "../../components/Container";
 import Footer from "../../components/footers/pages/Footer";
 
 import About from "../about/About";
-import Press from "../press/press";
+import Press from "../press/Press";
 import Education from "../education/Education";
 
 
-import Socialmedia from "../socialmedia/socialmedia";
+import Socialmedia from "../socialmedia/Socialmedia";
 import Projects from "../projects/Projects";
 
 const Home = () => {
